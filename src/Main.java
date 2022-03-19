@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int currentMoney = 100;
         int newMoney = 2445;
         int moneyAmount = 0;
